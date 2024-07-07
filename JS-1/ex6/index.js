@@ -10,3 +10,4 @@ if(word === wordInverted){
 }else{
     alert(word + " não é palíndromo.\n" + "Veja: " + wordInverted)
 }
+//teste commit pc novo
